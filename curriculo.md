@@ -1,9 +1,9 @@
 # Currículo - Tábata de Faria
-Estágiaria em Desenvolvimento Web/ Front-end e Back-end.
-
+<kbd> Estágiaria em Desenvolvimento Web/ Front-end e Back-end. </kbd>
+ 
 :house:  São José dos Campos/SP 
 :iphone:   (12) 99108 - 6788 
-:envelope:  tabata07defaria@gmail.com
+:envelope:  tabata07defaria@gmail.com 
 
 Oie, eu sou a Tábata, tenho 18 anos e sou uma buserteca Full Stack! Há 9 messes faço parte de um programa que une aprendizado com mão na massa chamado Busertech, nele consegui aprender e desenvolver projetos em diferentes linguagens e frameworks, como: Django, JavaScript, Python, SQL, e VueJS.
 Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no mercado de trabalho: já trabalhei em uma escola de cursos, em um consultório de odontologia, na prefeitura da minha cidade e em um clube de esportes.
