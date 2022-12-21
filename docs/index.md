@@ -26,17 +26,13 @@ Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no 
 Bom, ainda é tudo muito novo, mas com certeza quero desenvolver projetos que impactem para melhor a vida das pessoas e focar paralelamente na gestão de pessoas! Unir proposito com pessoas é massa demais e acredito muito no impacto positivo desse retorno
 
 Além disso, também quero terminar a facul e começar uma nova fora do país.
-## Tecnologias
-| CSS | batata |
-* Django
-* Git
-* HTML
-* JavaScript
-* PostgreSQL
-* Python
-* Linux
-* VueJS
-* Vuetify
 
+| Tecnologias |   s        |
+|-------------|-------------
+| CSS         | PostgreSQL |
+| Django      | Python     |
+| Git         | Linux      |
+| HTML        | VueJS      |
+|JavaScript   | Vuetify    |
 
 
