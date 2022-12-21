@@ -1,4 +1,4 @@
 site_name: Tábata de Faria
-# theme:
-#   palette:
-#     scheme: default
+theme:
+  name: palette
+    scheme: slate
