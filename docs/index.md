@@ -21,3 +21,15 @@ Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no 
 Bom, ainda é tudo muito novo, mas com certeza quero desenvolver projetos que impactem para melhor a vida das pessoas, trabalhar com alguma causa e focar em conjunto na gestão de pessoas! Unir proposito com pessoas é massa demais e acredito muito no impacto positivo desse retorno
 
 Além disso, também quero terminar a facul e começar uma nova fora do país!!
+## Tecnologias
+*CSS
+*Django
+*Git
+*HTML
+*JavaScript
+*PostgreSQL
+*Python
+*Linux
+*VueJS
+*Vuetify
+
