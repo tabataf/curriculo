@@ -27,7 +27,7 @@ Bom, ainda é tudo muito novo, mas com certeza quero desenvolver projetos que im
 
 Além disso, também quero terminar a facul e começar uma nova fora do país.
 ## Tecnologias
- CSS | batata 
+| CSS | batata |
 * Django
 * Git
 * HTML
