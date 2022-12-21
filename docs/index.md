@@ -33,6 +33,6 @@ Além disso, também quero terminar a facul e começar uma nova fora do país.
 | Django      | Python     |
 | Git         | Linux      |
 | HTML        | VueJS      |
-|JavaScript   | Vuetify    |
+| JavaScript   | Vuetify    |
 
 
