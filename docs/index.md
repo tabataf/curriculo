@@ -11,7 +11,7 @@
 
 
 Oie, eu sou a Tábata, tenho 18 anos e sou uma buserteca Full Stack! Há 9 meses faço parte de um programa que une aprendizado com mão na massa chamado Busertech, nele consegui aprender e desenvolver projetos em diferentes linguagens e frameworks.
-Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no mercado de trabalho: trabalhei em uma escola de cursos, em um consultório de odontologia, na prefeitura da minha cidade e em um clube de esportes.
+Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no mercado de trabalho: trabalhei em uma escola de cursos, em um consultório de odontologia, na prefeitura de Jacareí e em um clube de esportes.
 
 ## Estudos
 
@@ -27,7 +27,7 @@ Bom, ainda é tudo muito novo, mas com certeza quero desenvolver projetos que im
 
 Além disso, também quero terminar a facul e começar uma nova fora do país.
 ## Tecnologias
-* CSS
+ CSS | batata 
 * Django
 * Git
 * HTML
@@ -37,5 +37,6 @@ Além disso, também quero terminar a facul e começar uma nova fora do país.
 * Linux
 * VueJS
 * Vuetify
+
 
 
