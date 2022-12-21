@@ -3,4 +3,4 @@ theme:
  name: material
  palette:
     scheme: slate
-    primary: cyan
+    primary: white
