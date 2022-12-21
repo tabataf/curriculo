@@ -1,4 +1,4 @@
-# Currículo - Tábata de Faria
+# **Currículo - Tábata de Faria** 
 > Estágiaria em Desenvolvimento Web/ Front-end e Back-end. 
  
 🏘️  São José dos Campos/SP 
