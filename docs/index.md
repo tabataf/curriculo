@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # **Currículo - Tábata de Faria** 
 > Estágiaria em Desenvolvimento Web/ Front-end e Back-end. 
  
