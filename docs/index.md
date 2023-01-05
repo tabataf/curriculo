@@ -7,8 +7,7 @@ hide:
  
 :octicons-heart-fill-24:{ .heart } São José dos Campos/SP
 
-:simple-whatsapp: <a href="https://wa.me/5512982241763" target="_blank">(12) 98224-1763</a> 
-
+:simple-whatsapp: **[(12) 98224-1763](https://wa.me/5512982241763)** <br>
 ✉️ Github: <a href="https://github.com/tabataf" target="_blank">@tabataf</a>
 
 📭 Linkedin: <a href="https://www.linkedin.com/in/t%C3%A1bata-de-faria/" target="_blank">Tábata de Faria</a>
