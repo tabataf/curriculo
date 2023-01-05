@@ -7,7 +7,7 @@ hide:
  
 🏘️  São José dos Campos/SP 
 
-📱WhatsApp: <a href="https://wa.me/5512991086788" target="_blank">(12) 99108-6788</a> 
+📱WhatsApp: <a href="https://wa.me/5512982241763" target="_blank">(12) 99108-6788</a> 
 
 ✉️ Github: <a href="https://github.com/tabataf" target="_blank">@tabataf</a>
 
