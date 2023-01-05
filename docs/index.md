@@ -7,11 +7,9 @@ hide:
  
 :octicons-heart-fill-24:{ .heart } São José dos Campos/SP
 
-:simple-whatsapp: **[(12) 98224-1763](https://wa.me/5512982241763)** <br> 
-✉️ Github: <a href="https://github.com/tabataf" target="_blank">@tabataf</a>
-
-📭 Linkedin: <a href="https://www.linkedin.com/in/t%C3%A1bata-de-faria/" target="_blank">Tábata de Faria</a>
-
+:simple-whatsapp: **[ (12) 98224-1763 ](https://wa.me/5512982241763)** <br> 
+:simple-github: **[GitHub](https://github.com/tabataf)** <br>
+:simple-linkedin: **[LinkedIn](https://www.linkedin.com/in/t%C3%A1bata-de-faria//)** <br>
 
 Oie, eu sou a Tábata, tenho 18 anos e sou uma buserteca Full Stack! Há 9 meses faço parte de um programa que une aprendizado com mão na massa chamado Busertech, nele consegui aprender e desenvolver projetos em diferentes linguagens e frameworks.
 Antes de ser uma camponesa-codadora eu já tive algumas outras experiências no mercado de trabalho: trabalhei em uma escola de cursos, em um consultório de odontologia, na prefeitura de Jacareí e em um clube de esportes.
