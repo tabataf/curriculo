@@ -5,9 +5,9 @@ hide:
 # **Currículo - Tábata de Faria** 
 > Estágiaria em Desenvolvimento Web/ Front-end e Back-end. 
  
-🏘️  São José dos Campos/SP 
+:octicons-heart-fill-24:{ .heart } São José dos Campos/SP
 
-📱WhatsApp: <a href="https://wa.me/5512982241763" target="_blank">(12) 98224-1763</a> 
+<i class="fa-brands fa-whatsapp"></i> <a href="https://wa.me/5512982241763" target="_blank">(12) 98224-1763</a> 
 
 ✉️ Github: <a href="https://github.com/tabataf" target="_blank">@tabataf</a>
 
